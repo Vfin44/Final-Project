@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of War diaries - 14th Canadian General Hospital</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Library and Archives Canada at http://data2.archives.ca/e/e061/e001518030.jpg</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>War diaries - 14th Canadian General Hospital</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>N/A</publisher>
+                        <distributor>The war diaries were not distributed.</distributor>
+                        <date when="1916">1917</date>
+                        <pubPlace>
+                            <settlement>N/A</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History 3814o at Carleton
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>Appendex 1</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>AUTHOR:-<persName key="James, Victor Arnold" from="1892" to="?" role="Sergent" ref="http://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=483120">Sgt.V.A.James</persName></p>
+                <p>APPENDEX 1. WAR DIARY. NO.10 CANADIAN STATIONARY HOSPITAL.</p>
+                <p>EVENTS LEADING TO FORMATION OF UNIT.</p>
+                <p><placeName key="University of Western Ontario" ref="https://tools.wmflabs.org/geohack/geohack.php?params=43_0_29_N_81_16_18_W">Western University</placeName> of <placeName key="London, Ontario" ref="https://tools.wmflabs.org/geohack/geohack.php?params=42_59_1_N_81_14_58_W">London, Ontario</placeName>, between September,1914 and March,1916, made several offers to the Canadian Government to organize a complete Hospital Unit for Overseas Service. To these offers the Canadian Government replied that the War Office deemed they had at the time sufficient Units of that nature.</p>
+                <p>It was considered by the Board of Governors that <placeName key="University of Western Ontario" ref="https://tools.wmflabs.org/geohack/geohack.php?params=43_0_29_N_81_16_18_W">Western University</placeName> was in a peculiarly advantageous position to supply a Hospital unit.   A large number or its students in Medicine and other branches were anxious to enlist; many of its graduates, practicing physicians and surgeons, had <interp key="Edwin Seaborn had 70 offers for the 10 medical officer positions he had available after he sent out word that he was looking for volunteers." n="Istl, Alexandra C., and Vivian C. McAlister. “Western University (No. 10 Canadian Stationary Hospital and No. 14 Canadian General Hospital): A Study of Medical Volunteerism in the First World War.” Canadian Journal of Surgery 59.6 (2016): 371–373. PMC. Web. 16 June 2018." cert="high" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">expressed their willingness</interp> to proceed oversees as Medical Officers, and a number or graduate Nurses of <placeName key="London, Ontario" ref="https://tools.wmflabs.org/geohack/geohack.php?params=42_59_1_N_81_14_58_W">London, Ontario</placeName> Hospitals, who were associated with the University, <interp key="Edwin Seaborn had 60 applications for the 27 available nursing positions, and then more when they later removed the bar against married women." n="Istl, Alexandra C., and Vivian C. McAlister. “Western University (No. 10 Canadian Stationary Hospital and No. 14 Canadian General Hospital): A Study of Medical Volunteerism in the First World War.” Canadian Journal of Surgery 59.6 (2016): 371–373. PMC. Web. 16 June 2018." cert="high" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">desired to serve as nursing sisters.</interp> The buildings and grounds of the University were available as a training centre during the Summer months. It was anticipated that the proposed Unit could be <interp key="It took the University two and a half months to have the unit ready." n="Istl, Alexandra C., and Vivian C. McAlister. “Western University (No. 10 Canadian Stationary Hospital and No. 14 Canadian General Hospital): A Study of Medical Volunteerism in the First World War.” Canadian Journal of Surgery 59.6 (2016): 371–373. PMC. Web. 16 June 2018." cert="high" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">very rapidly recruited and trained ready for oversees.</interp></p>
+                <p>Accordingly further urgent representation were made to <placeName key="Ottawa, Ontario" ref="https://tools.wmflabs.org/geohack/geohack.php?params=45_25_0_N_45_25_0_E">Ottawa</placeName> in March 1916. with the result that authority was received to mobilize the <placeName key="University of Western Ontario" ref="https://tools.wmflabs.org/geohack/geohack.php?params=43_0_29_N_81_16_18_W">Western University</placeName> Hospital, officially known No.10 Stationery Hospital, C.E.F</p>
+                <p><persName key="Seaborn, Edwin" from="1872" to="1951" role="Surgeon" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">Edwin Seaborn</persName>,M.D., a graduate of the University and long associated with its School of Medicine and Surgery, was nominated by the Board of Governors as <interp key="Edwin Seaborn was the Comanding Officer from the formation of the unit in July 1916, to when they demobolised in April 1919. In that time the No.10 Canadian Stationary Hospital treated more then 16000 paitents from England to France, where they spent most of the later years." n="University of Western Ontario Archives Faculity List" cert="med" ref="https://www.lib.uwo.ca/archives/virtualexhibits/historyofmedicine/Faculty/seaborn.html">Officer Commanding the Unit</interp>, and in due course the appointment was approved by Militia Headquarters, <placeName key="Ottawa, Ontario" ref="https://tools.wmflabs.org/geohack/geohack.php?params=45_25_0_N_45_25_0_E">Ottawa</placeName>.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
